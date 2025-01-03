@@ -1,1 +1,10 @@
 mais outro ficheiro alterado
+
+
+d134352 (HEAD -> master) alterado
+5203df1 acrescentado refs
+763ca56 alteracao de nome
+cf8f822 removido
+d24134c inserido ficheiro a remover
+9e05ef9 acrescentado notas
+a5ee217 my first commit
