@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Ano 2025 - alterado Para testar conflitos - do JOAO
-=======
-Ano 2025 - titulo alterado para conflito
->>>>>>> master
 
 o meu texto da treta.
 
